@@ -1,4 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">APIDemo</string>
+
+    <!-- ==================================================== -->
+    <!-- =========      About Activity Strings      ========= -->
+    <!-- ==================================================== -->
+    <string name="developedBy">Developed By:</string>
+    <string name="developer">Steven Scott Dunning</string>
+    <string name="contactEmailTitle">Email Link:</string>
+    <string name="contactEmail"><u>scotty.dunning@gmail.com</u></string>
+    <string name="contactWebTitle">Website Link:</string>
+    <string name="contactWebLink"><u>http://scottydunning.com</u></string>
+
+    <!-- ==================================================== -->
+    <!-- ==============      Menu Strings      ============== -->
+    <!-- ==================================================== -->
+    <string name="about">About</string>
+    <string name="home">Home</string>
+    <string name="cancel">Cancel</string>
+
+    <!-- ==================================================== -->
+    <!-- ==============      Staff Strings      ============= -->
+    <!-- ==================================================== -->
+    <string name="staff">Staff</string>
+
+    <!-- ==================================================== -->
+    <!-- ==========      Appointments Strings      ========== -->
+    <!-- ==================================================== -->
+    <string name="appointments">Appointments</string>
+
+    <!-- ==================================================== -->
+    <!-- ==============      SOAP Strings      ============== -->
+    <!-- ==================================================== -->
+    <string name="sourcename">MBO.Scott.Dunning</string>
+    <string name="username">_MBO.Scott.Dunning</string>
+    <string name="password">ScottyDunning123</string>
+    <string name="key">1IMr56NDT7l0ZRmLEnz25vlELKk=</string>
+    <string name="siteID">-31100</string>
+    <string name="namespace">http://clients.mindbodyonline.com/api/0_5</string>
+    <string name="method1">GetStaff</string>
+    <string name="method2">GetStaffAppointments</string>
+    <string name="method3">GetActivationCode</string>
+    <!--<string name="url1">https://api.mindbodyonline.com/0_5/StaffService.asmx</string>-->
+    <string name="url1">https://api.mindbodyonline.com/0_5/StaffService.asmx?wsdl</string>
+    <string name="url2">https://api.mindbodyonline.com/0_5/AppointmentService.asmx?wsdl</string>
+    <string name="getActCodeUrl">https://api.mindbodyonline.com/0_5/SiteService.asmx?wsdl</string>
+    <string name="envelope">http://schemas.xmlsoap.org/soap/envelope/</string>
+
 </resources>

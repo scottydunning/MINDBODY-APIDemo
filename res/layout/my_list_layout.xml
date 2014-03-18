@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white" >
+
+    <TextView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/myListLayoutTV"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:paddingTop="8dip"
+        android:paddingBottom="8dip"
+        android:paddingLeft="8dip"
+        android:gravity="center"
+        android:textStyle="bold"
+        android:layout_alignParentLeft="true"
+        android:text="LEFT TEXT"
+        android:textColor="@color/gray"
+        android:textSize="20dp"
+        />
+
+    <TextView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/myListLayoutTV2"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:paddingTop="8dip"
+        android:paddingBottom="8dip"
+        android:gravity="center"
+        android:maxLength="16"
+        android:text="RIGHT TEXT"
+        android:textColor="@color/gray"
+        android:textSize="20dp"
+        android:layout_alignParentTop="true"
+        android:layout_toLeftOf="@+id/myListLayoutTV3" />
+
+    <TextView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/myListLayoutTV3"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:paddingTop="8dip"
+        android:paddingBottom="8dip"
+        android:paddingRight="8dip"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:maxLength="2"
+        android:layout_alignParentRight="true"
+        android:text=""
+        android:textColor="@color/gray"
+        android:textSize="20dp"
+        />
+
+</RelativeLayout>

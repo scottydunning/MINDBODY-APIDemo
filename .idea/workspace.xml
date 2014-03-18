@@ -1,5 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AndroidConfiguredLogFilters">
+    <filters>
+      <filter>
+        <option name="logLevel" value="verbose" />
+        <option name="logMessagePattern" value="" />
+        <option name="logTagPattern" value="" />
+        <option name="name" value="APIDemo" />
+        <option name="packageNamePattern" value="mindbody.scottdunning.APIDemo" />
+        <option name="pid" value="" />
+      </filter>
+    </filters>
+  </component>
+  <component name="AndroidLayoutPreviewToolWindow">
+    <option name="state">
+      <GlobalState />
+    </option>
+  </component>
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="APIDemo" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="f27fe751-e71b-4010-8c81-365f73066498" name="Default" comment="" />
     <ignored path="APIDemo.iws" />
@@ -64,10 +89,108 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="MyActivity.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/mindbody/scottdunning/APIDemo/MyActivity.java">
+      <file leaf-file-name="staff.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/layout/staff.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="13" selection-start="109" selection-end="109" vertical-scroll-proportion="0.091603056" vertical-offset="0" max-vertical-offset="655">
+            <state line="27" column="0" selection-start="870" selection-end="870" vertical-scroll-proportion="-11.037037" vertical-offset="107" max-vertical-offset="510">
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="android-designer">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="strings.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/values/strings.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="40" column="27" selection-start="2059" selection-end="2059" vertical-scroll-proportion="0.0" vertical-offset="410" max-vertical-offset="840">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="appointments.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/layout/appointments.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="28" column="15" selection-start="893" selection-end="893" vertical-scroll-proportion="-11.111111" vertical-offset="120" max-vertical-offset="510">
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="android-designer">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Appointments.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/mindbody/scottdunning/APIDemo/Appointments.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="19" column="13" selection-start="451" selection-end="451" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="675">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Staff.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/mindbody/scottdunning/APIDemo/Staff.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="83" column="42" selection-start="2836" selection-end="2836" vertical-scroll-proportion="0.68604654" vertical-offset="950" max-vertical-offset="2910">
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#762#770#0" expanded="true" />
+                <element signature="e#809#817#0" expanded="true" />
+                <element signature="e#998#1047#0" expanded="true" />
+                <element signature="e#1066#1113#0" expanded="true" />
+                <element signature="e#1129#1173#0" expanded="true" />
+                <element signature="e#1196#1246#0" expanded="true" />
+                <element signature="e#1267#1315#0" expanded="true" />
+                <element signature="e#1331#1374#0" expanded="true" />
+                <element signature="e#1395#1443#0" expanded="true" />
+                <element signature="e#1462#1508#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AndroidManifest.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="25" column="40" selection-start="1048" selection-end="1048" vertical-scroll-proportion="0.0" vertical-offset="110" max-vertical-offset="600">
+              <folding>
+                <element signature="e#497#515#0" expanded="true" />
+                <element signature="e#627#645#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LIAdapter.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/mindbody/scottdunning/APIDemo/LIAdapter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="30" column="43" selection-start="940" selection-end="940" vertical-scroll-proportion="0.0" vertical-offset="195" max-vertical-offset="735">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="my_list_layout.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/layout/my_list_layout.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="40" column="29" selection-start="1549" selection-end="1549" vertical-scroll-proportion="-22.222221" vertical-offset="0" max-vertical-offset="885">
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="android-designer">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SoapRequest.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/mindbody/scottdunning/APIDemo/SoapRequest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="17" column="0" selection-start="420" selection-end="420" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="390">
               <folding />
             </state>
           </provider>
@@ -79,6 +202,27 @@
     <FindUsagesManager>
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/res/values/colors.xml" />
+        <option value="$PROJECT_DIR$/res/layout/splash.xml" />
+        <option value="$PROJECT_DIR$/res/layout/about.xml" />
+        <option value="$PROJECT_DIR$/src/mindbody/scottdunning/APIDemo/About.java" />
+        <option value="$PROJECT_DIR$/res/menu/menu.xml" />
+        <option value="$PROJECT_DIR$/src/mindbody/scottdunning/APIDemo/Splash.java" />
+        <option value="$PROJECT_DIR$/res/layout/staff.xml" />
+        <option value="$PROJECT_DIR$/res/layout/appointments.xml" />
+        <option value="$PROJECT_DIR$/src/mindbody/scottdunning/APIDemo/Appointments.java" />
+        <option value="$PROJECT_DIR$/src/mindbody/scottdunning/APIDemo/SoapRequest.java" />
+        <option value="$PROJECT_DIR$/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/res/layout/my_list_layout.xml" />
+        <option value="$PROJECT_DIR$/src/mindbody/scottdunning/APIDemo/LIAdapter.java" />
+        <option value="$PROJECT_DIR$/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/src/mindbody/scottdunning/APIDemo/Staff.java" />
+      </list>
+    </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="4" />
@@ -112,7 +256,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -150,8 +293,77 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="APIDemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="APIDemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="values" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="APIDemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="APIDemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="menu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="APIDemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="APIDemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layout" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="APIDemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="APIDemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -160,15 +372,53 @@
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="recentsLimit" value="5" />
     <property name="MemberChooser.sorted" value="false" />
-    <property name="options.lastSelected" value="project.propCompiler" />
+    <property name="options.lastSelected" value="editor.preferences.appearance" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
     <property name="show.migrate.to.gradle.popup" value="false" />
+    <property name="last_opened_file_path" value="$APPLICATION_HOME_DIR$/ksoap2-android-assembly-3.2.0-jar-with-dependencies.jar!/" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="FullScreen" value="false" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="192.168.56.101:5555" />
+    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_AVD" value="EmulatorOne" />
+    <property name="OverrideImplement.combined" value="true" />
+    <property name="OverrideImplement.overriding.sorted" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/res/drawable-xhdpi" />
+      <recent name="$PROJECT_DIR$/res/drawable-mdpi" />
+      <recent name="$PROJECT_DIR$/res/drawable-ldpi" />
+      <recent name="$PROJECT_DIR$/res/drawable-hdpi" />
+    </key>
   </component>
   <component name="RunManager" selected="Android Application.APIDemo">
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
       <option name="SERVER_MODE" value="false" />
@@ -273,7 +523,7 @@
     <configuration default="false" name="APIDemo" type="AndroidRunConfigurationType" factoryName="Android Application">
       <module name="APIDemo" />
       <option name="ACTIVITY_CLASS" value="mindbody.scottdunning.APIDemo.MyActivity" />
-      <option name="MODE" value="specific_activity" />
+      <option name="MODE" value="default_activity" />
       <option name="DEPLOY" value="true" />
       <option name="ARTIFACT_NAME" value="" />
       <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
@@ -285,8 +535,10 @@
       <option name="DISABLE_BOOT_ANIMATION" value="false" />
       <option name="NETWORK_SPEED" value="full" />
       <option name="NETWORK_LATENCY" value="none" />
-      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="CLEAR_LOGCAT" value="true" />
       <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <RunnerSettings RunnerId="AndroidDebugRunner" />
+      <ConfigurationWrapper RunnerId="AndroidDebugRunner" />
       <method />
     </configuration>
     <list size="1">
@@ -310,30 +562,32 @@
     <frame x="4" y="22" width="1276" height="778" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3299373" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329429" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.329429" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329429" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329429" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -354,13 +608,519 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/mindbody/scottdunning/APIDemo/MyActivity.java">
+    <entry file="file://$PROJECT_DIR$/res/layout/staff.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="13" selection-start="109" selection-end="109" vertical-scroll-proportion="0.091603056" vertical-offset="0" max-vertical-offset="655">
+        <state line="28" column="15" selection-start="40" selection-end="886" vertical-scroll-proportion="0.0" vertical-offset="107" max-vertical-offset="510">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="27" selection-start="2059" selection-end="2059" vertical-scroll-proportion="0.0" vertical-offset="600" max-vertical-offset="840">
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/appointments.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="15" selection-start="893" selection-end="893" vertical-scroll-proportion="0.0" vertical-offset="420" max-vertical-offset="510">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mindbody/scottdunning/APIDemo/Appointments.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="49" selection-start="1013" selection-end="1013" vertical-scroll-proportion="0.0" vertical-offset="80" max-vertical-offset="735">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mindbody/scottdunning/APIDemo/Staff.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="125" column="10" selection-start="3959" selection-end="3959" vertical-scroll-proportion="0.0" vertical-offset="1700" max-vertical-offset="2655">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#762#770#0" expanded="true" />
+            <element signature="e#809#817#0" expanded="true" />
+            <element signature="e#998#1047#0" expanded="true" />
+            <element signature="e#1066#1113#0" expanded="true" />
+            <element signature="e#1129#1173#0" expanded="true" />
+            <element signature="e#1196#1246#0" expanded="true" />
+            <element signature="e#1267#1315#0" expanded="true" />
+            <element signature="e#1331#1374#0" expanded="true" />
+            <element signature="e#1395#1443#0" expanded="true" />
+            <element signature="e#1462#1508#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mindbody/scottdunning/APIDemo/SoapRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="0" selection-start="420" selection-end="420" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="390">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/staff.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="15" selection-start="40" selection-end="886" vertical-scroll-proportion="0.0" vertical-offset="107" max-vertical-offset="510">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="45" column="93" selection-start="2465" selection-end="2465" vertical-scroll-proportion="0.0" vertical-offset="380" max-vertical-offset="840">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/appointments.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="15" selection-start="893" selection-end="893" vertical-scroll-proportion="0.0" vertical-offset="420" max-vertical-offset="510">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mindbody/scottdunning/APIDemo/Appointments.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="49" selection-start="1013" selection-end="1013" vertical-scroll-proportion="0.0" vertical-offset="80" max-vertical-offset="735">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mindbody/scottdunning/APIDemo/Staff.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="133" column="91" selection-start="4424" selection-end="4424" vertical-scroll-proportion="0.0" vertical-offset="1995" max-vertical-offset="2460">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#762#770#0" expanded="true" />
+            <element signature="e#809#817#0" expanded="true" />
+            <element signature="e#998#1047#0" expanded="true" />
+            <element signature="e#1066#1113#0" expanded="true" />
+            <element signature="e#1129#1173#0" expanded="true" />
+            <element signature="e#1196#1246#0" expanded="true" />
+            <element signature="e#1267#1315#0" expanded="true" />
+            <element signature="e#1331#1374#0" expanded="true" />
+            <element signature="e#1395#1443#0" expanded="true" />
+            <element signature="e#1462#1508#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mindbody/scottdunning/APIDemo/SoapRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="0" selection-start="420" selection-end="420" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="390">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/staff.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="15" selection-start="40" selection-end="886" vertical-scroll-proportion="0.0" vertical-offset="420" max-vertical-offset="510">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="53" selection-start="1482" selection-end="1482" vertical-scroll-proportion="0.0" vertical-offset="435" max-vertical-offset="660">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/appointments.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="15" selection-start="893" selection-end="893" vertical-scroll-proportion="0.0" vertical-offset="420" max-vertical-offset="510">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mindbody/scottdunning/APIDemo/Appointments.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="49" selection-start="1013" selection-end="1013" vertical-scroll-proportion="0.0" vertical-offset="80" max-vertical-offset="735">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mindbody/scottdunning/APIDemo/Staff.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="56" selection-start="318" selection-end="318" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="810">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#762#770#0" expanded="true" />
+            <element signature="e#809#817#0" expanded="true" />
+            <element signature="e#998#1047#0" expanded="true" />
+            <element signature="e#1066#1113#0" expanded="true" />
+            <element signature="e#1129#1173#0" expanded="true" />
+            <element signature="e#1196#1246#0" expanded="true" />
+            <element signature="e#1267#1315#0" expanded="true" />
+            <element signature="e#1331#1374#0" expanded="true" />
+            <element signature="e#1395#1443#0" expanded="true" />
+            <element signature="e#1462#1508#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mindbody/scottdunning/APIDemo/SoapRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="0" selection-start="344" selection-end="344" vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="360">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mindbody/scottdunning/APIDemo/MyActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="13" selection-start="109" selection-end="109" vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="315">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/splash.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="48" selection-start="534" selection-end="534" vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="450">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mindbody/scottdunning/APIDemo/Splash.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="67" selection-start="1277" selection-end="1277" vertical-scroll-proportion="0.0" vertical-offset="630" max-vertical-offset="840">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/staff.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="42" selection-start="606" selection-end="606" vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="345">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="33" selection-start="919" selection-end="919" vertical-scroll-proportion="0.0" vertical-offset="315" max-vertical-offset="480">
+          <folding>
+            <element signature="e#497#515#0" expanded="true" />
+            <element signature="e#627#645#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mindbody/scottdunning/APIDemo/Staff.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="39" selection-start="329" selection-end="329" vertical-scroll-proportion="0.0" vertical-offset="195" max-vertical-offset="330">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#762#770#0" expanded="true" />
+            <element signature="e#809#817#0" expanded="true" />
+            <element signature="e#998#1047#0" expanded="true" />
+            <element signature="e#1066#1113#0" expanded="true" />
+            <element signature="e#1129#1173#0" expanded="true" />
+            <element signature="e#1196#1246#0" expanded="true" />
+            <element signature="e#1267#1315#0" expanded="true" />
+            <element signature="e#1331#1374#0" expanded="true" />
+            <element signature="e#1395#1443#0" expanded="true" />
+            <element signature="e#1462#1508#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values/colors.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="42" selection-start="435" selection-end="435" vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="285">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/drawable-ldpi/ic_launcher.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mindbody/scottdunning/APIDemo/MyActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="13" selection-start="109" selection-end="109" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="300">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values/colors.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="42" selection-start="435" selection-end="435" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="285">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/menu/menu.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="7" selection-start="592" selection-end="592" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="420">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mindbody/scottdunning/APIDemo/About.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="41" selection-start="385" selection-end="385" vertical-scroll-proportion="0.0" vertical-offset="665" max-vertical-offset="1320">
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#1029#1076#0" expanded="false" />
+            <element signature="e#1112#1155#0" expanded="false" />
+            <element signature="e#1770#1819#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/about.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="95" column="42" selection-start="3412" selection-end="3412" vertical-scroll-proportion="3.6538463" vertical-offset="0" max-vertical-offset="1575">
+          <folding>
+            <element signature="e#722#740#0" expanded="false" />
+            <element signature="e#1509#1530#0" expanded="false" />
+            <element signature="e#1837#1856#0" expanded="false" />
+            <element signature="e#2215#2242#0" expanded="false" />
+            <element signature="e#2550#2572#0" expanded="false" />
+            <element signature="e#2928#2953#0" expanded="false" />
+            <element signature="e#3259#3283#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mindbody/scottdunning/APIDemo/Splash.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="36" selection-start="885" selection-end="885" vertical-scroll-proportion="0.47328246" vertical-offset="110" max-vertical-offset="765">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/splash.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="33" selection-start="1347" selection-end="1347" vertical-scroll-proportion="0.9512195" vertical-offset="0" max-vertical-offset="705">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/sdk/platforms/android-17/android.jar!/android/os/AsyncTask.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="51" column="0" selection-start="2155" selection-end="2155" vertical-scroll-proportion="0.78417265" vertical-offset="423" max-vertical-offset="840" />
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/ksoap2-android-assembly-3.2.0-jar-with-dependencies.jar!/org/ksoap2/transport/HttpTransportSE.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="0" selection-start="1996" selection-end="1996" vertical-scroll-proportion="0.8341837" vertical-offset="108" max-vertical-offset="525" />
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/ksoap2-android-assembly-3.2.0-jar-with-dependencies.jar!/org/ksoap2/serialization/SoapSerializationEnvelope.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="79" column="0" selection-start="5294" selection-end="5294" vertical-scroll-proportion="0.8341837" vertical-offset="843" max-vertical-offset="1260" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mindbody/scottdunning/APIDemo/SoapRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="0" selection-start="420" selection-end="420" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="270">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/my_list_layout.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="29" selection-start="1549" selection-end="1549" vertical-scroll-proportion="-22.222221" vertical-offset="0" max-vertical-offset="885">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="40" selection-start="1048" selection-end="1048" vertical-scroll-proportion="0.0" vertical-offset="110" max-vertical-offset="600">
+          <folding>
+            <element signature="e#497#515#0" expanded="true" />
+            <element signature="e#627#645#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mindbody/scottdunning/APIDemo/Appointments.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="13" selection-start="451" selection-end="451" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="675">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/staff.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="0" selection-start="870" selection-end="870" vertical-scroll-proportion="-11.037037" vertical-offset="107" max-vertical-offset="510">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/appointments.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="15" selection-start="893" selection-end="893" vertical-scroll-proportion="-11.111111" vertical-offset="120" max-vertical-offset="510">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="27" selection-start="2059" selection-end="2059" vertical-scroll-proportion="0.0" vertical-offset="380" max-vertical-offset="840">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mindbody/scottdunning/APIDemo/LIAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="43" selection-start="940" selection-end="940" vertical-scroll-proportion="0.0" vertical-offset="195" max-vertical-offset="735">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mindbody/scottdunning/APIDemo/Staff.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="83" column="42" selection-start="2836" selection-end="2836" vertical-scroll-proportion="0.68604654" vertical-offset="950" max-vertical-offset="2910">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#762#770#0" expanded="true" />
+            <element signature="e#809#817#0" expanded="true" />
+            <element signature="e#998#1047#0" expanded="true" />
+            <element signature="e#1066#1113#0" expanded="true" />
+            <element signature="e#1129#1173#0" expanded="true" />
+            <element signature="e#1196#1246#0" expanded="true" />
+            <element signature="e#1267#1315#0" expanded="true" />
+            <element signature="e#1331#1374#0" expanded="true" />
+            <element signature="e#1395#1443#0" expanded="true" />
+            <element signature="e#1462#1508#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Android</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>APIDemo</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.26990554" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
 
