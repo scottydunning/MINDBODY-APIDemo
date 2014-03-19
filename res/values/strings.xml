@@ -40,8 +40,6 @@
     <string name="namespace">http://clients.mindbodyonline.com/api/0_5</string>
     <string name="method1">GetStaff</string>
     <string name="method2">GetStaffAppointments</string>
-    <string name="method3">GetActivationCode</string>
-    <!--<string name="url1">https://api.mindbodyonline.com/0_5/StaffService.asmx</string>-->
     <string name="url1">https://api.mindbodyonline.com/0_5/StaffService.asmx?wsdl</string>
     <string name="url2">https://api.mindbodyonline.com/0_5/AppointmentService.asmx?wsdl</string>
     <string name="getActCodeUrl">https://api.mindbodyonline.com/0_5/SiteService.asmx?wsdl</string>

@@ -32,11 +32,9 @@ public class LIAdapter extends ArrayAdapter<String> {
 
         View rowView = inflater.inflate(R.layout.my_list_layout, parent, false);
         TextView leftTV = (TextView) rowView.findViewById(R.id.myListLayoutTV);
-        TextView rightTV = (TextView) rowView.findViewById(R.id.myListLayoutTV2);
+        //TextView rightTV = (TextView) rowView.findViewById(R.id.myListLayoutTV2);
         leftTV.setText(newNames[position]);
-        rightTV.setText("");
-
-
+        //rightTV.setText("");
 
         return rowView;
     }
